@@ -39,5 +39,8 @@ GDSC 2기 AI/ML 부서 스터디의 실습 코드를 올리는 Repository 입니
     - 멤버들의 질문 + 답
     - 추가적으로 공부해온 내용 등 진행한 스터디의 정리본을 **GDSC 티스토리**에 올리기
 
- :heartpulse: **참여 인원** 
- - 이서현, 송다은, 김민영, 김세희, 김채연, 이윤서, 정은지
+# 💗 참여 인원
+
+|[송다은](https://github.com/daeun6)|[이서현](https://github.com/bimeon)|[김민영](https://github.com/Skyminn)|[김세희](https://github.com/SeneKim)|[김채연](https://github.com/chaeyeoniklmw)|[이윤서](https://github.com/2ynnso)|[정은지](https://github.com/bbobburi)|
+| --- | --- | --- | --- | --- | --- | --- |
+|<img width="100" src="https://github.com/GDSC-SWU/2023-CS-Study/assets/63540652/0c4d01e2-20da-4684-84fc-bca57e87d676"/>|<img width="100" src="https://user-images.githubusercontent.com/63340879/231808117-97164d43-32da-44ed-85ca-c807603eef38.jpg"/>|<img width="100" src="https://github.com/GDSC-SWU/2023-CS-Study/assets/117229525/6305f888-e0c9-490a-9b02-09ba44062ca8"/>|<img width="130" src="https://user-images.githubusercontent.com/86971536/231524340-060eb465-5da1-4369-bdbe-35ac416be410.jpg"/>|<img width="130" src="https://github.com/GDSC-SWU/2023-CS-Study/assets/68415422/5f132973-ede5-4e82-b106-35e2be6f8fab"/>|<img width="130" src="https://github.com/GDSC-SWU/2023-CS-Study/assets/68415422/5f132973-ede5-4e82-b106-35e2be6f8fab"/>|<img width="130" src="https://github.com/GDSC-SWU/2023-CS-Study/assets/68415422/5f132973-ede5-4e82-b106-35e2be6f8fab"/>|
