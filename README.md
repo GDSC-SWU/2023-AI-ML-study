@@ -43,5 +43,4 @@ GDSC 2기 AI/ML 부서 스터디의 실습 코드를 올리는 Repository 입니
 
 |[송다은](https://github.com/daeun6)|[이서현](https://github.com/bimeon)|[김민영](https://github.com/Skyminn)|[김세희](https://github.com/SeneKim)|[김채연](https://github.com/chaeyeoniklmw)|[이윤서](https://github.com/2ynnso)|[정은지](https://github.com/bbobburi)|
 | --- | --- | --- | --- | --- | --- | --- |
-|<img width="100" src=""/>|<img width="100" src="https://github.com/GDSC-SWU/2023-AI-ML-study/assets/117229525/982dd457-ae8c-4417-9012-6630b1e12338"/>|<img width="100" src="https://github.com/GDSC-SWU/2023-AI-ML-study/assets/91856370/d197d30f-4373-4b12-ad24-22cf9ae73baf"/>|<img width="130" src=""/>|<img width="130" src=""/>|<img width="130" src="https://github.com/GDSC-SWU/2023-AI-ML-study/assets/117229525/861c3254-dcc6-47dd-8155-ec6c2c59e43e"/>|<img width="130" src=""/>|
-
+|<img width="100" src=""/>|<img width="100" src="https://github.com/GDSC-SWU/2023-AI-ML-study/assets/117229525/4af40563-0b24-486d-8767-028c21cfc7a0"/>|<img width="100" src="https://github.com/GDSC-SWU/2023-AI-ML-study/assets/91856370/d197d30f-4373-4b12-ad24-22cf9ae73baf"/>|<img width="130" src=""/>|<img width="130" src=""/>|<img width="130" src="https://github.com/GDSC-SWU/2023-AI-ML-study/assets/117229525/861c3254-dcc6-47dd-8155-ec6c2c59e43e"/>|<img width="130" src=""/>|
