@@ -1,0 +1,1354 @@
+ CUDNN_HALF=1 
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 512 K-images (8 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185356648_01_jpg.rf.a0ec5e4ce4b40da8c1edf466a4fd19bb.jpg: Predicted in 652.188000 milli-seconds.
+clean: 100%	(left_x:  181   top_y:  206   width:  282   height:  266)
+cupholder: 98%	(left_x:  232   top_y:  398   width:  203   height:   72)
+straw: 100%	(left_x:  251   top_y:   35   width:  102   height:  351)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185207800_10_jpg.rf.fa2972f3a9e02275e8b8f23ce99b5667.jpg: Predicted in 3.951000 milli-seconds.
+not_clean: 100%	(left_x:  129   top_y:  153   width:  321   height:  410)
+cupholder: 100%	(left_x:  153   top_y:  369   width:  274   height:  171)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184620528_28_jpg.rf.88782817f5c3f9d79f3e499af87c8c64.jpg: Predicted in 3.847000 milli-seconds.
+not_clean: 100%	(left_x:  246   top_y:   65   width:  342   height:  424)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185356648_19_jpg.rf.9b1be5549836fc20b5137282596b44c1.jpg: Predicted in 3.984000 milli-seconds.
+not_clean: 99%	(left_x:  180   top_y:   93   width:  344   height:  398)
+cupholder: 100%	(left_x:  200   top_y:  319   width:  267   height:  167)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_113947274_jpg.rf.8bbcd04f37381672fcb9708e88a9b0e2.jpg: Predicted in 3.868000 milli-seconds.
+not_clean: 99%	(left_x:  138   top_y:  167   width:  396   height:  392)
+not_clean: 98%	(left_x:  165   top_y:  351   width:  346   height:  171)
+straw: 90%	(left_x:  241   top_y:   85   width:  173   height:  276)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184924113_07_jpg.rf.6044bb2cb2732aa8c946809565db7309.jpg: Predicted in 3.935000 milli-seconds.
+cupholder: 100%	(left_x:  246   top_y:  366   width:  274   height:  160)
+clean: 100%	(left_x:  284   top_y:  163   width:  284   height:  348)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184954417_23_jpg.rf.f8cec9aaaea81379549a2f63e1c20e51.jpg: Predicted in 3.871000 milli-seconds.
+clean: 99%	(left_x:  190   top_y:  139   width:  261   height:  415)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184954417_12_jpg.rf.1cbafeb10b4004eef4ab8cbfb53d1a94.jpg: Predicted in 3.849000 milli-seconds.
+clean: 100%	(left_x:  124   top_y:  110   width:  354   height:  378)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184848117_23_jpg.rf.8266b5904a7c62d5d7f30a32ec6e51cf.jpg: Predicted in 3.829000 milli-seconds.
+cupholder: 99%	(left_x:  199   top_y:  437   width:  224   height:   78)
+not_clean: 100%	(left_x:  204   top_y:  229   width:  252   height:  296)
+straw: 99%	(left_x:  310   top_y:  131   width:   41   height:  254)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185356648_02_jpg.rf.938c4343e02248711da9ad7ec7ac5035.jpg: Predicted in 3.914000 milli-seconds.
+clean: 40%	(left_x:  138   top_y:  130   width:  309   height:  389)
+straw: 98%	(left_x:  155   top_y:  135   width:  288   height:  373)
+cupholder: 84%	(left_x:  185   top_y:  409   width:  230   height:   82)
+straw: 73%	(left_x:  251   top_y:   -1   width:   66   height:  331)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_113944684_jpg.rf.bf4ee38eda8f1964860d3c1f69fdd5d9.jpg: Predicted in 3.875000 milli-seconds.
+not_clean: 100%	(left_x:   73   top_y:  154   width:  464   height:  443)
+not_clean: 76%	(left_x:  138   top_y:  386   width:  340   height:  164)
+cupholder: 64%	(left_x:  138   top_y:  386   width:  340   height:  164)
+straw: 42%	(left_x:  167   top_y:   98   width:  229   height:  257)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184658512_06_jpg.rf.1f7005d28afa8c342e740d659717d2a8.jpg: Predicted in 3.901000 milli-seconds.
+not_clean: 100%	(left_x:  214   top_y:  112   width:  276   height:  389)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184924113_01_jpg.rf.8f3af926dbe5a6f60afd849df9ed800c.jpg: Predicted in 4.008000 milli-seconds.
+cupholder: 100%	(left_x:  181   top_y:  400   width:  256   height:  155)
+clean: 100%	(left_x:  210   top_y:  211   width:  244   height:  340)
+straw: 95%	(left_x:  322   top_y:   76   width:   30   height:  358)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185017898_01_jpg.rf.2c41c9720fda56c7b40dacf4c8a47896.jpg: Predicted in 3.904000 milli-seconds.
+not_clean: 100%	(left_x:  199   top_y:  246   width:  204   height:  323)
+cupholder: 99%	(left_x:  210   top_y:  373   width:  180   height:  129)
+straw: 98%	(left_x:  262   top_y:  127   width:   52   height:  262)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185232656_13_jpg.rf.463f8c521fdd617fbb2588fdb9240420.jpg: Predicted in 3.877000 milli-seconds.
+not_clean: 100%	(left_x:  244   top_y:  229   width:  269   height:  338)
+cupholder: 100%	(left_x:  262   top_y:  403   width:  224   height:  155)
+straw: 84%	(left_x:  358   top_y:   94   width:   46   height:  316)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185451033_03_jpg.rf.b25ef1faec455cb6be79aca526c65864.jpg: Predicted in 3.824000 milli-seconds.
+not_clean: 83%	(left_x:  139   top_y:  137   width:  379   height:  334)
+cupholder: 67%	(left_x:  148   top_y:  128   width:  366   height:  353)
+cupholder: 99%	(left_x:  202   top_y:  382   width:  244   height:   81)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185356648_15_jpg.rf.d14465630bccad95ef4be92d067ee4a8.jpg: Predicted in 3.843000 milli-seconds.
+clean: 100%	(left_x:  202   top_y:   92   width:  300   height:  381)
+cupholder: 94%	(left_x:  222   top_y:  364   width:  237   height:   93)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130255955_jpg.rf.319a5629be3a1fb7431d3a644e2c9a04.jpg: Predicted in 3.805000 milli-seconds.
+clean: 94%	(left_x:   37   top_y:   99   width:  494   height:  543)
+not_clean: 74%	(left_x:   63   top_y:  190   width:  484   height:  435)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114434417_jpg.rf.b813221ecd82ccd212c6a812fae66531.jpg: Predicted in 3.826000 milli-seconds.
+not_clean: 100%	(left_x:   73   top_y:   53   width:  582   height:  534)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130232367_jpg.rf.03e91fc57e67e96454d4236715da1f68.jpg: Predicted in 3.823000 milli-seconds.
+not_clean: 99%	(left_x:   88   top_y:  146   width:  536   height:  459)
+straw: 54%	(left_x:  271   top_y:   35   width:  204   height:  463)
+straw: 33%	(left_x:  318   top_y:   57   width:  209   height:  110)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130238631_jpg.rf.e9ed9cf3f6f8a3bdbdeed1954e2aca67.jpg: Predicted in 3.796000 milli-seconds.
+not_clean: 99%	(left_x:  -20   top_y:  200   width:  555   height:  411)
+straw: 35%	(left_x:   79   top_y:  125   width:  288   height:  393)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130328264_jpg.rf.9f9c70d9dabe90acfbfc8728f09fea20.jpg: Predicted in 3.838000 milli-seconds.
+not_clean: 39%	(left_x:   80   top_y:  154   width:  422   height:  437)
+clean: 96%	(left_x:  100   top_y:  143   width:  412   height:  458)
+cupholder: 100%	(left_x:  146   top_y:  374   width:  318   height:  171)
+straw: 80%	(left_x:  199   top_y:   55   width:  156   height:  360)
+straw: 32%	(left_x:  220   top_y:   51   width:  129   height:  130)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130206095_jpg.rf.7dee7dac08685459ece5c4c3a349a3a8.jpg: Predicted in 3.874000 milli-seconds.
+not_clean: 100%	(left_x:   39   top_y:  148   width:  491   height:  431)
+cupholder: 100%	(left_x:  106   top_y:  379   width:  391   height:  178)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130210360_jpg.rf.8c79c86ed6de793e3114b30ceb66f2a5.jpg: Predicted in 3.820000 milli-seconds.
+clean: 54%	(left_x:   61   top_y:  106   width:  537   height:  509)
+not_clean: 95%	(left_x:  100   top_y:  111   width:  518   height:  497)
+cupholder: 100%	(left_x:  146   top_y:  362   width:  381   height:  191)
+straw: 96%	(left_x:  231   top_y:   18   width:  189   height:   85)
+straw: 41%	(left_x:  242   top_y:   12   width:  237   height:  403)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130231127_jpg.rf.cee32db7911356c95ca624976d0b988d.jpg: Predicted in 3.814000 milli-seconds.
+not_clean: 100%	(left_x:   50   top_y:  160   width:  519   height:  443)
+straw: 99%	(left_x:  221   top_y:   59   width:  188   height:  422)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114342148_jpg.rf.9e80d032b791b09063b0745774af7dca.jpg: Predicted in 3.847000 milli-seconds.
+not_clean: 100%	(left_x:   89   top_y:  128   width:  477   height:  497)
+straw: 76%	(left_x:  200   top_y:   47   width:  214   height:  356)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114435954_jpg.rf.a77269105cc169079a1954e86db5dc9e.jpg: Predicted in 3.810000 milli-seconds.
+not_clean: 99%	(left_x:   56   top_y:   60   width:  503   height:  518)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114345873_jpg.rf.4a7af2ad3d5c4d903fe3bcd90fd8ed4b.jpg: Predicted in 3.898000 milli-seconds.
+not_clean: 100%	(left_x:   89   top_y:  230   width:  459   height:  388)
+straw: 80%	(left_x:  108   top_y:  136   width:  295   height:  283)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114433465_jpg.rf.abd52b7bb53fb0fedce59dcc29c8ed3a.jpg: Predicted in 3.816000 milli-seconds.
+not_clean: 100%	(left_x:   -4   top_y:   47   width:  541   height:  541)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130235169_jpg.rf.a7efe92e5c7f576d53423aa6a5092e28.jpg: Predicted in 3.864000 milli-seconds.
+not_clean: 99%	(left_x:   19   top_y:   98   width:  593   height:  531)
+straw: 27%	(left_x:  233   top_y:   34   width:  145   height:  468)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130257825_jpg.rf.8fa17cc7de6b1af1936850b173ee4d20.jpg: Predicted in 3.918000 milli-seconds.
+not_clean: 98%	(left_x:   26   top_y:   78   width:  593   height:  500)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130259981_jpg.rf.57f7f6bb4eff285076026514ad4f404d.jpg: Predicted in 3.874000 milli-seconds.
+clean: 76%	(left_x:  -24   top_y:  131   width:  609   height:  465)
+not_clean: 91%	(left_x:  -12   top_y:  130   width:  650   height:  483)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130211452_jpg.rf.d4e2261f460ef46511e0ebf02ea65701.jpg: Predicted in 4.211000 milli-seconds.
+not_clean: 99%	(left_x:   59   top_y:  183   width:  534   height:  455)
+cupholder: 100%	(left_x:  121   top_y:  423   width:  387   height:  168)
+straw: 59%	(left_x:  217   top_y:   97   width:  189   height:  110)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130220597_jpg.rf.5707dfd9842be0b1fb36d6a780b15de0.jpg: Predicted in 3.942000 milli-seconds.
+not_clean: 100%	(left_x:    9   top_y:  111   width:  536   height:  524)
+cupholder: 100%	(left_x:   63   top_y:  394   width:  393   height:  175)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114435232_jpg.rf.cfc85bb6de9943c17f959b67510c7de2.jpg: Predicted in 3.834000 milli-seconds.
+not_clean: 100%	(left_x:   38   top_y:    4   width:  558   height:  538)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114348309_jpg.rf.c923f4c19e53bec200692817e3fe64df.jpg: Predicted in 3.816000 milli-seconds.
+not_clean: 99%	(left_x:  111   top_y:   96   width:  546   height:  548)
+straw: 31%	(left_x:  309   top_y:   34   width:  228   height:  382)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114340635_jpg.rf.4c35dea893c3527f22848dff88f90783.jpg: Predicted in 3.804000 milli-seconds.
+not_clean: 100%	(left_x:   72   top_y:  182   width:  493   height:  453)
+straw: 83%	(left_x:  212   top_y:   87   width:  208   height:  385)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130253063_jpg.rf.5b92a41133711ebc2bedd2736ae95de0.jpg: Predicted in 3.866000 milli-seconds.
+not_clean: 94%	(left_x:   74   top_y:  119   width:  587   height:  511)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114240531_jpg.rf.a0ee98d75d574abcd9040d59a1a1f7d6.jpg: Predicted in 3.820000 milli-seconds.
+not_clean: 100%	(left_x:   87   top_y:  116   width:  541   height:  532)
+not_clean: 88%	(left_x:  145   top_y:  403   width:  384   height:  183)
+cupholder: 86%	(left_x:  146   top_y:  395   width:  401   height:  183)
+straw: 59%	(left_x:  289   top_y:   35   width:  147   height:  361)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130222511_jpg.rf.e3e52d7efa7366493898096ca3f21da2.jpg: Predicted in 3.854000 milli-seconds.
+clean: 99%	(left_x:   42   top_y:   33   width:  546   height:  561)
+cupholder: 85%	(left_x:   64   top_y:  317   width:  449   height:  227)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130234277_jpg.rf.af0ef42d6c35735c02ac0846c1473167.jpg: Predicted in 3.879000 milli-seconds.
+not_clean: 100%	(left_x:  111   top_y:  133   width:  541   height:  454)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130250932_jpg.rf.89ed3f4009e433d8a8504b711681fc21.jpg: Predicted in 3.930000 milli-seconds.
+clean: 99%	(left_x:    2   top_y:   67   width:  560   height:  513)
+not_clean: 99%	(left_x:   33   top_y:  130   width:  567   height:  479)
+cupholder: 52%	(left_x:  494   top_y:  395   width:  144   height:  243)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114432550_jpg.rf.b96bed25fe7a8ad6c407a2922bbe9d31.jpg: Predicted in 3.891000 milli-seconds.
+not_clean: 100%	(left_x:   42   top_y:   64   width:  553   height:  521)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114350242_jpg.rf.fba6d7e6d2e05d014228c86079ef42c8.jpg: Predicted in 3.823000 milli-seconds.
+not_clean: 99%	(left_x:    7   top_y:  119   width:  520   height:  472)
+straw: 28%	(left_x:  207   top_y:   28   width:   99   height:  402)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114431661_jpg.rf.897bd34fc35567d119c03ce4787e7940.jpg: Predicted in 3.810000 milli-seconds.
+not_clean: 99%	(left_x:   43   top_y:  109   width:  540   height:  522)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114347108_jpg.rf.dada4b4f355498007a56326866e3d566.jpg: Predicted in 3.823000 milli-seconds.
+not_clean: 100%	(left_x:   56   top_y:  121   width:  541   height:  475)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114310938_jpg.rf.ff09f63f17fde0d6e7b3d10d913635ab.jpg: Predicted in 3.796000 milli-seconds.
+not_clean: 100%	(left_x:   60   top_y:   91   width:  502   height:  470)
+straw: 61%	(left_x:  125   top_y:   18   width:  275   height:  333)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114339328_jpg.rf.d2f0eb76b581563194ef917c702a9402.jpg: Predicted in 3.925000 milli-seconds.
+not_clean: 100%	(left_x:    8   top_y:   79   width:  617   height:  590)
+straw: 27%	(left_x:  194   top_y:   10   width:  258   height:  423)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130219694_jpg.rf.6480bb6f2955658397ac49d9ceb80a27.jpg: Predicted in 3.862000 milli-seconds.
+not_clean: 99%	(left_x:   40   top_y:   74   width:  504   height:  503)
+cupholder: 100%	(left_x:  103   top_y:  330   width:  379   height:  181)
+straw: 88%	(left_x:  268   top_y:   -2   width:  183   height:  364)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114439579_jpg.rf.911cbf7334b23cc79ddf648e4f52b544.jpg: Predicted in 3.832000 milli-seconds.
+not_clean: 100%	(left_x:  105   top_y:   36   width:  535   height:  572)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130254961_jpg.rf.8bd7de8ffacd889683036e04abb6f6db.jpg: Predicted in 3.861000 milli-seconds.
+not_clean: 92%	(left_x:   -9   top_y:  121   width:  557   height:  495)
+clean: 92%	(left_x:    0   top_y:   67   width:  539   height:  511)
+cupholder: 80%	(left_x:  465   top_y:  424   width:  176   height:  200)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114349283_jpg.rf.e5ad6a90e9b1c9b711413db8f393f427.jpg: Predicted in 7.703000 milli-seconds.
+not_clean: 100%	(left_x:   51   top_y:  113   width:  547   height:  544)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130236006_jpg.rf.7bc225733574d90ef5c72e2c4cb9df12.jpg: Predicted in 3.834000 milli-seconds.
+not_clean: 96%	(left_x:   20   top_y:  185   width:  500   height:  445)
+straw: 45%	(left_x:  149   top_y:   16   width:  258   height:  497)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130212512_jpg.rf.f65e07900ea445f8cf60f26ba857c0f5.jpg: Predicted in 3.821000 milli-seconds.
+not_clean: 91%	(left_x:   75   top_y:  200   width:  489   height:  428)
+cupholder: 91%	(left_x:  106   top_y:  442   width:  370   height:  141)
+straw: 90%	(left_x:  217   top_y:   31   width:  224   height:  390)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114343721_jpg.rf.00bee0201cb9e07140f831e2fcb73dd0.jpg: Predicted in 3.792000 milli-seconds.
+not_clean: 100%	(left_x:   87   top_y:  197   width:  441   height:  433)
+straw: 38%	(left_x:  237   top_y:  166   width:  149   height:  319)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130236833_jpg.rf.c5af2008ac49eb07dfdc87d5758a71c0.jpg: Predicted in 3.881000 milli-seconds.
+not_clean: 96%	(left_x:  102   top_y:  112   width:  543   height:  501)
+straw: 56%	(left_x:  291   top_y:   14   width:  149   height:  444)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114344714_jpg.rf.7ad0175d8d33b53df45110131dd26f84.jpg: Predicted in 3.833000 milli-seconds.
+not_clean: 100%	(left_x:   89   top_y:  213   width:  465   height:  420)
+straw: 49%	(left_x:  134   top_y:  134   width:  255   height:  287)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114438640_jpg.rf.2c8e7bf5b1d1f5cc7c2d984abc470b85.jpg: Predicted in 3.900000 milli-seconds.
+not_clean: 100%	(left_x:   45   top_y:   47   width:  544   height:  554)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130221498_jpg.rf.9c69c30d306b44a0b529b10d0c4dfaac.jpg: Predicted in 3.844000 milli-seconds.
+not_clean: 99%	(left_x:  -17   top_y:   66   width:  572   height:  511)
+cupholder: 100%	(left_x:   57   top_y:  332   width:  419   height:  190)
+straw: 88%	(left_x:  204   top_y:    8   width:  143   height:  340)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130251991_jpg.rf.2b7eb6e1447452e9bb182a450fbf502a.jpg: Predicted in 3.855000 milli-seconds.
+clean: 97%	(left_x:   75   top_y:   65   width:  592   height:  535)
+not_clean: 96%	(left_x:   84   top_y:  122   width:  577   height:  501)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130335632_jpg.rf.b542135896cc8241fababcdab1681148.jpg: Predicted in 5.341000 milli-seconds.
+not_clean: 96%	(left_x:    4   top_y:   72   width:  534   height:  504)
+not_clean: 62%	(left_x:   11   top_y:   61   width:  120   height:  204)
+cupholder: 100%	(left_x:   62   top_y:  342   width:  405   height:  191)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130537962_jpg.rf.e0b67741eeb9cba684d5d038579e9502.jpg: Predicted in 7.899000 milli-seconds.
+clean: 100%	(left_x:  -35   top_y:   29   width:  596   height:  562)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132735066_jpg.rf.06d85a8cc74078eb635855c4a4960fdd.jpg: Predicted in 4.004000 milli-seconds.
+not_clean: 99%	(left_x:  153   top_y:   91   width:  470   height:  477)
+cupholder: 99%	(left_x:  186   top_y:  349   width:  385   height:  180)
+straw: 35%	(left_x:  353   top_y:   -6   width:  155   height:  284)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130446508_jpg.rf.199d1869690dd727c7a0f2046d0e9781.jpg: Predicted in 3.938000 milli-seconds.
+clean: 100%	(left_x:  -34   top_y:  -63   width:  617   height:  682)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130449852_jpg.rf.e7e01acabf62fcf640ae65d1e1d11c43.jpg: Predicted in 4.345000 milli-seconds.
+clean: 100%	(left_x:   36   top_y:   31   width:  591   height:  589)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184059954_09_jpg.rf.fe5eb3bb559b6a2f2160d82a77b69708.jpg: Predicted in 4.013000 milli-seconds.
+not_clean: 100%	(left_x:  116   top_y:   12   width:  393   height:  492)
+cupholder: 100%	(left_x:  166   top_y:  269   width:  288   height:  183)
+straw: 97%	(left_x:  268   top_y:    0   width:   96   height:  171)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132152414_jpg.rf.78b792a226f096379aae16371444ab86.jpg: Predicted in 3.934000 milli-seconds.
+not_clean: 100%	(left_x:   48   top_y:  255   width:  425   height:  349)
+straw: 98%	(left_x:  230   top_y:   31   width:  115   height:  324)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184059954_05_jpg.rf.79d985e02111f557721e678324396038.jpg: Predicted in 6.302000 milli-seconds.
+not_clean: 64%	(left_x:  165   top_y:   36   width:  351   height:  376)
+cupholder: 63%	(left_x:  176   top_y:   15   width:  344   height:  412)
+cupholder: 100%	(left_x:  202   top_y:  258   width:  266   height:  143)
+straw: 83%	(left_x:  303   top_y:   -9   width:   57   height:  229)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132740679_jpg.rf.59eee85e202230535212149dac977b4b.jpg: Predicted in 4.234000 milli-seconds.
+not_clean: 98%	(left_x:  112   top_y:  302   width:  404   height:  233)
+cupholder: 99%	(left_x:  130   top_y:  401   width:  351   height:  109)
+straw: 99%	(left_x:  285   top_y:   37   width:  132   height:  346)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130528349_jpg.rf.fcd01fc0da28c7fabe2c49e88ba6c564.jpg: Predicted in 3.984000 milli-seconds.
+clean: 100%	(left_x:   19   top_y:   63   width:  526   height:  526)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130529917_jpg.rf.23fe954130511b63399ddc08350fd44c.jpg: Predicted in 3.932000 milli-seconds.
+straw: 42%	(left_x:    1   top_y:    5   width:  121   height:  169)
+clean: 100%	(left_x:   89   top_y:  128   width:  434   height:  421)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130532187_jpg.rf.9c34c58f928031351895db553c02a6d1.jpg: Predicted in 4.557000 milli-seconds.
+not_clean: 32%	(left_x:  -12   top_y:   40   width:  143   height:  249)
+clean: 100%	(left_x:  153   top_y:  217   width:  436   height:  384)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130509504_jpg.rf.4c5e1c0ecc011c33453cec89291e5c71.jpg: Predicted in 3.969000 milli-seconds.
+clean: 99%	(left_x:   15   top_y:   30   width:  608   height:  590)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132047563_jpg.rf.f3643a089d59a03f34497052092e1b80.jpg: Predicted in 3.989000 milli-seconds.
+not_clean: 97%	(left_x:   83   top_y:  182   width:  403   height:  361)
+cupholder: 100%	(left_x:  129   top_y:  342   width:  345   height:  169)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184059954_03_jpg.rf.9fa1a11065df942c5bdbe410c1645f81.jpg: Predicted in 4.006000 milli-seconds.
+cupholder: 100%	(left_x:   84   top_y:   44   width:  356   height:  379)
+cupholder: 94%	(left_x:  138   top_y:  277   width:  241   height:  106)
+straw: 74%	(left_x:  207   top_y:    2   width:   85   height:  210)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130332593_jpg.rf.9e98fae1d7723f0ccfa15482fbcbadf9.jpg: Predicted in 4.036000 milli-seconds.
+not_clean: 96%	(left_x:   41   top_y:  146   width:  471   height:  475)
+cupholder: 100%	(left_x:  119   top_y:  417   width:  336   height:  166)
+straw: 91%	(left_x:  165   top_y:   30   width:  183   height:  385)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130331532_jpg.rf.44aaf6e754ade99abc672ce33071b13f.jpg: Predicted in 4.020000 milli-seconds.
+clean: 84%	(left_x:   50   top_y:  180   width:  459   height:  464)
+not_clean: 68%	(left_x:   77   top_y:  187   width:  448   height:  456)
+cupholder: 100%	(left_x:  105   top_y:  436   width:  362   height:  191)
+straw: 31%	(left_x:  192   top_y:  123   width:  155   height:  386)
+straw: 81%	(left_x:  200   top_y:   72   width:  127   height:  134)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130351557_jpg.rf.c0b63a180a13280dd0b458c230eea643.jpg: Predicted in 3.961000 milli-seconds.
+clean: 95%	(left_x:  121   top_y:   87   width:  503   height:  562)
+straw: 78%	(left_x:  216   top_y:   42   width:  223   height:  450)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132220944_jpg.rf.a76322e7c794e0e6ea8eccf702b34836.jpg: Predicted in 3.933000 milli-seconds.
+not_clean: 98%	(left_x:   81   top_y:  219   width:  472   height:  373)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130339881_jpg.rf.853eba39f7305168ca218544ad744bdd.jpg: Predicted in 4.014000 milli-seconds.
+not_clean: 100%	(left_x:  121   top_y:  181   width:  478   height:  436)
+cupholder: 100%	(left_x:  178   top_y:  408   width:  346   height:  179)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132513545_jpg.rf.b244f671a40511b781eb75e56938f89f.jpg: Predicted in 3.885000 milli-seconds.
+not_clean: 99%	(left_x:   57   top_y:  140   width:  462   height:  444)
+cupholder: 100%	(left_x:  100   top_y:  368   width:  373   height:  171)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185513256_25_jpg.rf.f91c3f4933c42bafc0bf7b0b41050d1b.jpg: Predicted in 3.838000 milli-seconds.
+clean: 99%	(left_x:  200   top_y:   96   width:  336   height:  412)
+clean: 99%	(left_x:  226   top_y:  313   width:  258   height:  152)
+cupholder: 78%	(left_x:  238   top_y:  322   width:  239   height:  148)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184059954_12_jpg.rf.d1629a8410d8f9fd78ef075064738035.jpg: Predicted in 3.847000 milli-seconds.
+not_clean: 100%	(left_x:  106   top_y:   66   width:  337   height:  481)
+cupholder: 100%	(left_x:  147   top_y:  292   width:  260   height:  187)
+straw: 85%	(left_x:  228   top_y:    3   width:   51   height:  161)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130522169_jpg.rf.4a184f798856073d093f1ba513aa19d5.jpg: Predicted in 3.844000 milli-seconds.
+clean: 35%	(left_x:   42   top_y:   21   width:  484   height:  516)
+clean: 97%	(left_x:   77   top_y:   85   width:  591   height:  555)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130358534_jpg.rf.9a6af3d50e1c8317cfbd5ef5777ec138.jpg: Predicted in 3.898000 milli-seconds.
+clean: 100%	(left_x:   92   top_y:  110   width:  542   height:  442)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130521332_jpg.rf.42e675d9db96d5e228c5394fc84cf630.jpg: Predicted in 3.866000 milli-seconds.
+clean: 98%	(left_x:    3   top_y:   37   width:  630   height:  551)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130535695_jpg.rf.11c03435f7b57770b618a2d6966c6cb6.jpg: Predicted in 3.934000 milli-seconds.
+clean: 100%	(left_x:   76   top_y:   36   width:  587   height:  562)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130350630_jpg.rf.3eaba147a277d66f183678ffb14e7aad.jpg: Predicted in 8.533000 milli-seconds.
+clean: 99%	(left_x:   -1   top_y:   34   width:  566   height:  576)
+straw: 43%	(left_x:  208   top_y:   11   width:  201   height:  420)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130333636_jpg.rf.6499684b3a05c7c02664c592542bc39a.jpg: Predicted in 3.944000 milli-seconds.
+not_clean: 100%	(left_x:   67   top_y:  155   width:  505   height:  457)
+cupholder: 100%	(left_x:  138   top_y:  421   width:  330   height:  157)
+straw: 58%	(left_x:  183   top_y:   49   width:  254   height:  350)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132052008_jpg.rf.1dab2e800506bb15317b7ac9d38d3898.jpg: Predicted in 3.904000 milli-seconds.
+not_clean: 93%	(left_x:  127   top_y:  156   width:  423   height:  400)
+cupholder: 100%	(left_x:  146   top_y:  338   width:  360   height:  180)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130445639_jpg.rf.ef692b03fa487898b452093e08125f5a.jpg: Predicted in 3.847000 milli-seconds.
+clean: 100%	(left_x:   42   top_y:   24   width:  652   height:  588)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130334620_jpg.rf.1b9b59caa1444861260ff0584eaff697.jpg: Predicted in 3.823000 milli-seconds.
+not_clean: 100%	(left_x:   63   top_y:  179   width:  525   height:  391)
+straw: 69%	(left_x:  132   top_y:   74   width:  280   height:  386)
+cupholder: 99%	(left_x:  153   top_y:  426   width:  353   height:  143)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144221_jpg.rf.ca3627312fb5936306ed97f569d1094e.jpg: Predicted in 7.922000 milli-seconds.
+clean: 100%	(left_x:   74   top_y:   91   width:  485   height:  540)
+cupholder: 100%	(left_x:   99   top_y:  344   width:  413   height:  215)
+straw: 98%	(left_x:  257   top_y:   13   width:  107   height:  386)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144239_jpg.rf.e613759d6516b05bdfda8217ec860c9d.jpg: Predicted in 3.904000 milli-seconds.
+clean: 100%	(left_x:   88   top_y:  193   width:  465   height:  435)
+straw: 98%	(left_x:  200   top_y:   40   width:  258   height:  562)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130353358_jpg.rf.ad31a643424db4a2f6d48264d636538b.jpg: Predicted in 4.040000 milli-seconds.
+clean: 48%	(left_x:  -23   top_y:   69   width:  568   height:  489)
+straw: 68%	(left_x:   14   top_y:   16   width:  445   height:  448)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132228441_jpg.rf.ff88c402133cd304d9298ae2e337209c.jpg: Predicted in 4.581000 milli-seconds.
+not_clean: 99%	(left_x:   72   top_y:  202   width:  485   height:  411)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132052956_jpg.rf.9a2c6152ba32da5f5ece60f949838d4e.jpg: Predicted in 3.899000 milli-seconds.
+not_clean: 95%	(left_x:   93   top_y:   90   width:  439   height:  442)
+cupholder: 100%	(left_x:  118   top_y:  306   width:  381   height:  188)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130449013_jpg.rf.edff063f36bf7512f49aebd027392e90.jpg: Predicted in 3.948000 milli-seconds.
+clean: 99%	(left_x:   94   top_y:   25   width:  566   height:  607)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130342956_jpg.rf.dbbc084f69d0f093c11d9d5eac8a5dce.jpg: Predicted in 3.900000 milli-seconds.
+not_clean: 100%	(left_x:   57   top_y:  144   width:  526   height:  437)
+cupholder: 100%	(left_x:  139   top_y:  380   width:  384   height:  160)
+straw: 96%	(left_x:  220   top_y:    6   width:  207   height:  414)
+straw: 28%	(left_x:  245   top_y:   12   width:  259   height:  100)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132127924_jpg.rf.24ac347c0034eadc9c88bd5cca723f7d.jpg: Predicted in 3.860000 milli-seconds.
+not_clean: 99%	(left_x:   73   top_y:  204   width:  469   height:  418)
+straw: 35%	(left_x:  269   top_y:   12   width:   70   height:  382)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_131613333_jpg.rf.0a16476f2aafa41aba52d17e235ba8bb.jpg: Predicted in 5.250000 milli-seconds.
+not_clean: 100%	(left_x:   35   top_y:   72   width:  559   height:  512)
+straw: 100%	(left_x:  250   top_y:   -1   width:  240   height:  326)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130510503_jpg.rf.917afbbd3122dee432ca7c8987bb7b7a.jpg: Predicted in 4.714000 milli-seconds.
+clean: 99%	(left_x:   66   top_y:  104   width:  517   height:  523)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132512680_jpg.rf.d643571d7fe6036a83380dcd6738582e.jpg: Predicted in 3.852000 milli-seconds.
+not_clean: 99%	(left_x:   61   top_y:  231   width:  440   height:  355)
+cupholder: 100%	(left_x:  109   top_y:  408   width:  359   height:  145)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132758908_jpg.rf.9e0cb8b3c8abbe4b3b5a020ed6dc52a0.jpg: Predicted in 3.959000 milli-seconds.
+not_clean: 98%	(left_x:   25   top_y:  246   width:  465   height:  356)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184059954_07_jpg.rf.e091b860c9c2973b5e51132de71a9af3.jpg: Predicted in 7.522000 milli-seconds.
+not_clean: 100%	(left_x:  130   top_y:   26   width:  374   height:  436)
+cupholder: 100%	(left_x:  158   top_y:  240   width:  292   height:  192)
+straw: 70%	(left_x:  280   top_y:    7   width:   92   height:  157)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144230_jpg.rf.3035164059e9f9729a2ed4527cfc7e8f.jpg: Predicted in 3.887000 milli-seconds.
+cupholder: 100%	(left_x:   12   top_y:  289   width:  387   height:  232)
+clean: 98%	(left_x:   19   top_y:   32   width:  417   height:  559)
+straw: 75%	(left_x:  105   top_y:   -2   width:  115   height:  327)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130401298_jpg.rf.361c2c8557098e2abb8b1fa3db7dbf7d.jpg: Predicted in 3.961000 milli-seconds.
+clean: 95%	(left_x:   94   top_y:  104   width:  524   height:  513)
+straw: 82%	(left_x:  103   top_y:   46   width:  444   height:  477)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132813628_jpg.rf.e5d818cbeaba560a6528ba87f8d26569.jpg: Predicted in 3.912000 milli-seconds.
+not_clean: 25%	(left_x:   69   top_y:   13   width:  477   height:  542)
+not_clean: 89%	(left_x:   73   top_y:  215   width:  474   height:  398)
+straw: 83%	(left_x:  251   top_y:   14   width:   80   height:  508)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132227667_jpg.rf.9578ba0a5b064d091d41cc667a1b49e7.jpg: Predicted in 3.941000 milli-seconds.
+not_clean: 100%	(left_x:  191   top_y:   50   width:  434   height:  549)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130410582_jpg.rf.96a0602147dd10476fc968fa3366a62a.jpg: Predicted in 3.947000 milli-seconds.
+clean: 99%	(left_x:   60   top_y:  -18   width:  597   height:  600)
+straw: 55%	(left_x:  222   top_y:   -6   width:  179   height:  552)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132808004_jpg.rf.cd4b53c2ad5d06254ca6eb6673c6c05f.jpg: Predicted in 3.848000 milli-seconds.
+not_clean: 78%	(left_x:   13   top_y:  101   width:  510   height:  539)
+straw: 83%	(left_x:  213   top_y:   61   width:  109   height:  498)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132026494_jpg.rf.23e967151ab04e5978b1439007c1fb12.jpg: Predicted in 3.908000 milli-seconds.
+not_clean: 90%	(left_x:  109   top_y:  163   width:  515   height:  406)
+cupholder: 99%	(left_x:  123   top_y:  359   width:  391   height:  183)
+straw: 76%	(left_x:  233   top_y:   16   width:  389   height:  415)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130359446_jpg.rf.a78888d5ab083658f04013c76e6323f2.jpg: Predicted in 4.050000 milli-seconds.
+clean: 100%	(left_x:   68   top_y:  108   width:  504   height:  497)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184059954_13_jpg.rf.ae21bf8bbd04ea2d86e33bb79ccb6c2d.jpg: Predicted in 4.050000 milli-seconds.
+not_clean: 100%	(left_x:  132   top_y:   59   width:  309   height:  405)
+cupholder: 100%	(left_x:  151   top_y:  234   width:  264   height:  189)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185549158_13_jpg.rf.6e8b9fbd4ac5e32cec803097a24bd344.jpg: Predicted in 3.878000 milli-seconds.
+clean: 100%	(left_x:  146   top_y:  160   width:  336   height:  426)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184059954_08_jpg.rf.c769e1daa6f544e75002f7fb4121f13b.jpg: Predicted in 9.089000 milli-seconds.
+not_clean: 100%	(left_x:   93   top_y:    5   width:  316   height:  464)
+cupholder: 100%	(left_x:  114   top_y:  222   width:  277   height:  178)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130402161_jpg.rf.9fe18c946c13a44ae43ccf9d2ba35d5f.jpg: Predicted in 3.930000 milli-seconds.
+clean: 54%	(left_x:   56   top_y:   93   width:  566   height:  555)
+straw: 31%	(left_x:   78   top_y:  105   width:  611   height:  529)
+straw: 67%	(left_x:  155   top_y:   36   width:  440   height:  482)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144245-0-_jpg.rf.fc75380a4f7fe4c1f6dcc842a4b5d03a.jpg: Predicted in 7.138000 milli-seconds.
+clean: 100%	(left_x:  128   top_y:  170   width:  411   height:  396)
+straw: 99%	(left_x:  272   top_y:    6   width:  166   height:  510)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130530689_jpg.rf.8664fd3ad99b8dcc573276663f160077.jpg: Predicted in 4.720000 milli-seconds.
+straw: 58%	(left_x:   -4   top_y:    3   width:  131   height:  166)
+clean: 100%	(left_x:   73   top_y:  124   width:  471   height:  425)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144223_jpg.rf.97fd6379e09c8a4e8b72406c70f2603e.jpg: Predicted in 3.860000 milli-seconds.
+clean: 99%	(left_x:   64   top_y:  120   width:  490   height:  465)
+cupholder: 100%	(left_x:   81   top_y:  361   width:  397   height:  171)
+straw: 96%	(left_x:  218   top_y:    1   width:  222   height:  429)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130341899_jpg.rf.ab51a63e25481530453440d76b94fa69.jpg: Predicted in 3.863000 milli-seconds.
+not_clean: 100%	(left_x:  114   top_y:  151   width:  522   height:  451)
+cupholder: 100%	(left_x:  194   top_y:  388   width:  384   height:  170)
+straw: 69%	(left_x:  281   top_y:   47   width:  271   height:  432)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130413576_jpg.rf.df62954cad4844acfc3520dd109d2025.jpg: Predicted in 4.916000 milli-seconds.
+clean: 99%	(left_x:   82   top_y:   40   width:  489   height:  574)
+straw: 68%	(left_x:  125   top_y:  -13   width:  200   height:  558)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130412559_jpg.rf.aff4b2b6ff7097f4f84e0e7f7b45f078.jpg: Predicted in 10.663000 milli-seconds.
+clean: 76%	(left_x:  110   top_y:   98   width:  535   height:  511)
+straw: 54%	(left_x:  121   top_y:    6   width:  496   height:  550)
+straw: 74%	(left_x:  211   top_y:  -18   width:  226   height:  559)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130519349_jpg.rf.7b7d232ff605555634afb3f2feef7a1f.jpg: Predicted in 4.074000 milli-seconds.
+clean: 96%	(left_x:   -3   top_y:   45   width:  643   height:  532)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185549158_09_jpg.rf.ecec6b6b320c508dc71b0fda75af743e.jpg: Predicted in 3.952000 milli-seconds.
+clean: 100%	(left_x:  233   top_y:  175   width:  231   height:  293)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130536826_jpg.rf.f7d79bfe5876a9902cda1c47e48b8b37.jpg: Predicted in 3.968000 milli-seconds.
+clean: 100%	(left_x:    9   top_y:   24   width:  626   height:  583)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132201548_jpg.rf.b57a68e9144b084cb8129c4ebdbebaf0.jpg: Predicted in 5.476000 milli-seconds.
+not_clean: 98%	(left_x:    8   top_y:  218   width:  501   height:  379)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185513256_22_jpg.rf.45776fe7622d0272b9ab5bf725b3d4be.jpg: Predicted in 3.961000 milli-seconds.
+clean: 100%	(left_x:  246   top_y:  132   width:  272   height:  336)
+cupholder: 100%	(left_x:  265   top_y:  313   width:  210   height:  134)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130532951_jpg.rf.244e5541011c1baf7ade5f4c22e309d5.jpg: Predicted in 3.997000 milli-seconds.
+clean: 100%	(left_x:   72   top_y:  138   width:  469   height:  398)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144227_jpg.rf.36240e37121e95f360138b37fbe124ab.jpg: Predicted in 3.945000 milli-seconds.
+clean: 100%	(left_x:   34   top_y:   73   width:  474   height:  497)
+cupholder: 100%	(left_x:   88   top_y:  311   width:  403   height:  206)
+straw: 86%	(left_x:  198   top_y:    6   width:   88   height:  360)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130531494_jpg.rf.b6964cfdce826c7267902c2d49e331db.jpg: Predicted in 3.892000 milli-seconds.
+clean: 100%	(left_x:   61   top_y:  105   width:  492   height:  503)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130436019_jpg.rf.1b042fb7edaad4577e4c2e64fe580bba.jpg: Predicted in 3.917000 milli-seconds.
+clean: 100%	(left_x:   85   top_y:   29   width:  561   height:  603)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130355084_jpg.rf.b1d2e350bd86e3da8eb6a717dde69e44.jpg: Predicted in 3.923000 milli-seconds.
+clean: 100%	(left_x:  131   top_y:  195   width:  453   height:  408)
+straw: 41%	(left_x:  276   top_y:  112   width:  279   height:  351)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132218715_jpg.rf.010765f6db28c561efd87b05f7c6041d.jpg: Predicted in 3.947000 milli-seconds.
+not_clean: 90%	(left_x:   79   top_y:   98   width:  459   height:  545)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132058247_jpg.rf.d93e0a3aef4ca5cb42071846eb731fee.jpg: Predicted in 3.833000 milli-seconds.
+cupholder: 100%	(left_x:  156   top_y:  307   width:  395   height:  201)
+not_clean: 100%	(left_x:  185   top_y:   72   width:  441   height:  480)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132929351_jpg.rf.df4b15af48a2fed13c068820c74fdf63.jpg: Predicted in 3.937000 milli-seconds.
+not_clean: 91%	(left_x:   76   top_y:  254   width:  500   height:  331)
+cupholder: 99%	(left_x:  138   top_y:  419   width:  394   height:  132)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144240_jpg.rf.b991207dbc2171f0b1ac16a3f0a5c4f0.jpg: Predicted in 3.958000 milli-seconds.
+clean: 100%	(left_x:   89   top_y:  125   width:  457   height:  484)
+straw: 97%	(left_x:  261   top_y:   23   width:  130   height:  517)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130352504_jpg.rf.b15a16849ff49cc68a6c69f50fdc9b58.jpg: Predicted in 3.904000 milli-seconds.
+straw: 73%	(left_x:   14   top_y:  101   width:  454   height:  536)
+clean: 96%	(left_x:   43   top_y:   81   width:  457   height:  508)
+straw: 42%	(left_x:   94   top_y:   30   width:  252   height:  460)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130340750_jpg.rf.e72ea0efab5339173bd8a6b7561b1014.jpg: Predicted in 3.824000 milli-seconds.
+not_clean: 100%	(left_x:   71   top_y:  181   width:  480   height:  409)
+cupholder: 100%	(left_x:  141   top_y:  405   width:  332   height:  149)
+straw: 64%	(left_x:  241   top_y:  100   width:  232   height:  334)
+straw: 71%	(left_x:  275   top_y:   98   width:  195   height:  114)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_131617407_jpg.rf.80383497c04119a4b28d5f1732ce02a6.jpg: Predicted in 3.962000 milli-seconds.
+not_clean: 99%	(left_x:  -13   top_y:   94   width:  575   height:  541)
+straw: 95%	(left_x:  168   top_y:   -1   width:  186   height:  316)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184231842_15_jpg.rf.8a8b79b6f8948357e853f36e5644ec80.jpg: Predicted in 3.892000 milli-seconds.
+not_clean: 100%	(left_x:  151   top_y:   97   width:  358   height:  369)
+cupholder: 99%	(left_x:  193   top_y:  327   width:  249   height:  123)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184231842_24_jpg.rf.e82b5fab683605d4947eefbd799b7b4e.jpg: Predicted in 3.906000 milli-seconds.
+not_clean: 100%	(left_x:  208   top_y:  210   width:  295   height:  349)
+cupholder: 100%	(left_x:  240   top_y:  390   width:  223   height:  152)
+straw: 98%	(left_x:  330   top_y:   52   width:   42   height:  311)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_131517048_jpg.rf.9e463cdcfd191995d947b459ed418183.jpg: Predicted in 3.875000 milli-seconds.
+not_clean: 99%	(left_x:  149   top_y:  131   width:  408   height:  381)
+cupholder: 100%	(left_x:  163   top_y:  327   width:  330   height:  141)
+straw: 100%	(left_x:  315   top_y:    6   width:  128   height:  270)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184338320_08_jpg.rf.1e440aed841b9c34db25cb5b4624d002.jpg: Predicted in 7.115000 milli-seconds.
+not_clean: 100%	(left_x:  254   top_y:  146   width:  274   height:  390)
+cupholder: 100%	(left_x:  266   top_y:  324   width:  227   height:  167)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_131608347_jpg.rf.2bcbfca99288569807825f430d1a2f53.jpg: Predicted in 4.479000 milli-seconds.
+not_clean: 99%	(left_x:  132   top_y:  254   width:  355   height:  299)
+straw: 100%	(left_x:  266   top_y:    3   width:  188   height:  351)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132028000_jpg.rf.25304ffdec876d338c07f4084b93cb4e.jpg: Predicted in 3.978000 milli-seconds.
+not_clean: 99%	(left_x:   52   top_y:  143   width:  503   height:  452)
+cupholder: 100%	(left_x:  120   top_y:  381   width:  366   height:  167)
+straw: 99%	(left_x:  200   top_y:    3   width:  130   height:  364)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184307509_11_jpg.rf.c70150b19b47b3c2b7fb43a3cf659e03.jpg: Predicted in 3.944000 milli-seconds.
+not_clean: 100%	(left_x:  245   top_y:  205   width:  248   height:  342)
+straw: 99%	(left_x:  350   top_y:   55   width:   70   height:  252)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184231842_06_jpg.rf.ffa753963c35aaa330efb591e5ed885a.jpg: Predicted in 3.948000 milli-seconds.
+not_clean: 100%	(left_x:  256   top_y:  182   width:  294   height:  292)
+cupholder: 100%	(left_x:  288   top_y:  377   width:  197   height:   88)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184231842_13_jpg.rf.43226283fa59fed797ecdb7928db4829.jpg: Predicted in 6.871000 milli-seconds.
+not_clean: 100%	(left_x:  139   top_y:  108   width:  386   height:  396)
+cupholder: 100%	(left_x:  172   top_y:  322   width:  261   height:  169)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184059954_23_jpg.rf.e289551d801be320991fc2da43b16d7c.jpg: Predicted in 3.924000 milli-seconds.
+not_clean: 100%	(left_x:  286   top_y:  113   width:  231   height:  319)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184231842_01_jpg.rf.5e53cd7e56dd225d9ccd0a77877051ff.jpg: Predicted in 3.859000 milli-seconds.
+not_clean: 100%	(left_x:  158   top_y:  211   width:  251   height:  359)
+straw: 96%	(left_x:  274   top_y:   51   width:   57   height:  256)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184231842_12_jpg.rf.412cf71ed0b9fd390c26fc0e1101013e.jpg: Predicted in 4.412000 milli-seconds.
+not_clean: 100%	(left_x:  206   top_y:   25   width:  365   height:  432)
+cupholder: 100%	(left_x:  234   top_y:  273   width:  256   height:  169)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_131711395_jpg.rf.00abdf2fd96a06bfadf50fdc46f6e7cb.jpg: Predicted in 5.578000 milli-seconds.
+cupholder: 99%	(left_x:   97   top_y:  199   width:  480   height:  234)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184231842_20_jpg.rf.9baaf90f7e4849be7dec282534827500.jpg: Predicted in 4.810000 milli-seconds.
+not_clean: 100%	(left_x:  157   top_y:  208   width:  298   height:  270)
+cupholder: 99%	(left_x:  226   top_y:  408   width:  191   height:   64)
+straw: 99%	(left_x:  233   top_y:   99   width:   82   height:  261)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_131814431_jpg.rf.0a3636b6638172abb9b2fa3eb40f1eac.jpg: Predicted in 7.580000 milli-seconds.
+not_clean: 99%	(left_x:   35   top_y:   97   width:  576   height:  546)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184338320_09_jpg.rf.0360201b6baac0ecd40b54ce58c4d71e.jpg: Predicted in 4.030000 milli-seconds.
+not_clean: 100%	(left_x:  283   top_y:  176   width:  236   height:  352)
+cupholder: 100%	(left_x:  287   top_y:  341   width:  208   height:  139)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184059954_26_jpg.rf.8affd37517a097eaefc8f16678815ee6.jpg: Predicted in 3.908000 milli-seconds.
+not_clean: 100%	(left_x:  144   top_y:  250   width:  287   height:  317)
+straw: 100%	(left_x:  276   top_y:   78   width:   86   height:  290)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184231842_22_jpg.rf.39e89bf658fa4d37f797a7ea33f4235f.jpg: Predicted in 3.856000 milli-seconds.
+not_clean: 100%	(left_x:  212   top_y:  130   width:  255   height:  364)
+cupholder: 99%	(left_x:  216   top_y:  312   width:  223   height:  154)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_131649149_jpg.rf.97897fa3ff7f8572ac44e7c1bd25a4e0.jpg: Predicted in 3.830000 milli-seconds.
+not_clean: 100%	(left_x:    5   top_y:    4   width:  210   height:  247)
+cupholder: 100%	(left_x:  126   top_y:  258   width:  476   height:  260)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_131701720_jpg.rf.ad7bf5899a74ef5124ab50d78c108d84.jpg: Predicted in 3.834000 milli-seconds.
+cupholder: 100%	(left_x:   83   top_y:  257   width:  507   height:  262)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_131521057_jpg.rf.7e327f5bd4092df497677081299016e2.jpg: Predicted in 5.446000 milli-seconds.
+not_clean: 100%	(left_x:  109   top_y:  120   width:  531   height:  491)
+cupholder: 100%	(left_x:  151   top_y:  349   width:  425   height:  210)
+straw: 99%	(left_x:  346   top_y:   -4   width:  158   height:  291)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184338320_04_jpg.rf.830b3e3d4cecef8cff74358fa67c5acb.jpg: Predicted in 3.963000 milli-seconds.
+not_clean: 100%	(left_x:  163   top_y:  119   width:  360   height:  411)
+cupholder: 100%	(left_x:  189   top_y:  328   width:  267   height:  175)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184059954_18_jpg.rf.644f8120f44ecb544a5fc1ede9785a1c.jpg: Predicted in 6.786000 milli-seconds.
+not_clean: 100%	(left_x:  187   top_y:   67   width:  335   height:  416)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185428390_jpg.rf.4d1deb820b666ccf208b9208daf82a19.jpg: Predicted in 4.109000 milli-seconds.
+not_clean: 100%	(left_x:  162   top_y:  227   width:  282   height:  308)
+straw: 98%	(left_x:  294   top_y:   53   width:   56   height:  404)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185428390_04_jpg.rf.521995fea67f730c8869966df8890b7e.jpg: Predicted in 4.468000 milli-seconds.
+not_clean: 99%	(left_x:  268   top_y:  185   width:  237   height:  322)
+straw: 69%	(left_x:  357   top_y:   27   width:   82   height:  423)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185428390_02_jpg.rf.73e50d1fffe26a08a9104c28da62d151.jpg: Predicted in 3.922000 milli-seconds.
+not_clean: 100%	(left_x:  239   top_y:  196   width:  260   height:  329)
+straw: 27%	(left_x:  364   top_y:   21   width:   74   height:  288)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185356648_29_jpg.rf.edd31977fb13db2cbebc05907e4f5a84.jpg: Predicted in 6.509000 milli-seconds.
+not_clean: 100%	(left_x:  211   top_y:  216   width:  279   height:  314)
+straw: 93%	(left_x:  338   top_y:   51   width:   66   height:  408)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185356648_22_jpg.rf.a31ec9e6ff6a81fa729cbd19ce590866.jpg: Predicted in 4.178000 milli-seconds.
+not_clean: 100%	(left_x:  210   top_y:  117   width:  284   height:  393)
+cupholder: 100%	(left_x:  210   top_y:  325   width:  244   height:  161)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185356648_21_jpg.rf.cc4365be0645b84d6a6533777fb94bf7.jpg: Predicted in 4.406000 milli-seconds.
+not_clean: 100%	(left_x:  215   top_y:  117   width:  281   height:  395)
+cupholder: 100%	(left_x:  219   top_y:  333   width:  243   height:  155)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185356648_07_jpg.rf.9432d3316d14b4358ec5993ccba2541f.jpg: Predicted in 3.888000 milli-seconds.
+not_clean: 100%	(left_x:  168   top_y:  119   width:  280   height:  378)
+cupholder: 100%	(left_x:  180   top_y:  329   width:  240   height:  154)
+straw: 49%	(left_x:  292   top_y:   -4   width:   68   height:  352)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185232656_08_jpg.rf.0e3e13a195ef2eab6f75c66ab20d7b00.jpg: Predicted in 3.904000 milli-seconds.
+not_clean: 100%	(left_x:  203   top_y:  176   width:  255   height:  378)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185232656_04_jpg.rf.c36cb6e69b85a4e54497d27795aaae34.jpg: Predicted in 3.929000 milli-seconds.
+not_clean: 100%	(left_x:  264   top_y:  123   width:  283   height:  389)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185207800_14_jpg.rf.0b5370c7b7d6a41e7afa04e53db511cd.jpg: Predicted in 3.860000 milli-seconds.
+not_clean: 100%	(left_x:  238   top_y:  258   width:  239   height:  256)
+straw: 99%	(left_x:  312   top_y:   88   width:   75   height:  296)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185207800_13_jpg.rf.1dbd26ff72a5aec7dbeb3961dfa6564e.jpg: Predicted in 3.898000 milli-seconds.
+cupholder: 100%	(left_x:  232   top_y:  325   width:  236   height:  161)
+not_clean: 100%	(left_x:  232   top_y:  131   width:  266   height:  399)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185207800_06_jpg.rf.ffd9181847a43c59c0cec4c467547ab9.jpg: Predicted in 3.828000 milli-seconds.
+not_clean: 100%	(left_x:  197   top_y:  151   width:  306   height:  362)
+cupholder: 100%	(left_x:  220   top_y:  338   width:  236   height:  159)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185207800_02_jpg.rf.9df6a512ec5b2a6b65fdf1d67b603c76.jpg: Predicted in 3.866000 milli-seconds.
+cupholder: 100%	(left_x:  219   top_y:  123   width:  329   height:  294)
+cupholder: 100%	(left_x:  277   top_y:  310   width:  201   height:   99)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185108151_29_jpg.rf.de2c4f7f9e006e68a37cb69f5c81b165.jpg: Predicted in 3.904000 milli-seconds.
+not_clean: 100%	(left_x:  194   top_y:  236   width:  266   height:  309)
+straw: 99%	(left_x:  330   top_y:   87   width:   45   height:  245)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185108151_25_jpg.rf.5f5a0143bf7bdf2dcf6a2f12dd200317.jpg: Predicted in 3.853000 milli-seconds.
+not_clean: 100%	(left_x:  198   top_y:  240   width:  273   height:  265)
+straw: 97%	(left_x:  318   top_y:   84   width:   64   height:  260)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185108151_24_jpg.rf.5b619e6ca2a267778c360464ff155ee6.jpg: Predicted in 3.966000 milli-seconds.
+not_clean: 100%	(left_x:  208   top_y:  227   width:  295   height:  275)
+straw: 100%	(left_x:  270   top_y:   50   width:  136   height:  282)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185108151_07_jpg.rf.515fecae9f8b796d8e3b69b46b27f8ef.jpg: Predicted in 3.888000 milli-seconds.
+not_clean: 100%	(left_x:  185   top_y:  172   width:  285   height:  358)
+cupholder: 98%	(left_x:  208   top_y:  381   width:  244   height:  151)
+straw: 99%	(left_x:  267   top_y:   -2   width:   96   height:  289)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132213039_jpg.rf.64b3ef54cd6ab61f022ad9d9b23345f8.jpg: Predicted in 3.833000 milli-seconds.
+not_clean: 98%	(left_x:   64   top_y:  160   width:  489   height:  443)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132135033_jpg.rf.6c7c18821d5cce92e1e9da33dc0649ba.jpg: Predicted in 3.845000 milli-seconds.
+not_clean: 100%	(left_x:   72   top_y:  153   width:  436   height:  441)
+straw: 100%	(left_x:  265   top_y:    0   width:  139   height:  319)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144740606_jpg.rf.2bc9a2aa7f897cfa0e36247701b72393.jpg: Predicted in 3.883000 milli-seconds.
+not_clean: 100%	(left_x:  103   top_y:  165   width:  431   height:  429)
+cupholder: 100%	(left_x:  150   top_y:  371   width:  333   height:  174)
+straw: 100%	(left_x:  237   top_y:   28   width:  137   height:  368)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144622640_jpg.rf.ca05c43675c6dd7e77bcf0def20a216f.jpg: Predicted in 3.866000 milli-seconds.
+not_clean: 100%	(left_x:  180   top_y:  146   width:  449   height:  430)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144513_jpg.rf.506bf6a73ae5ffc8bc995936a3903637.jpg: Predicted in 4.684000 milli-seconds.
+not_clean: 76%	(left_x:    2   top_y:    7   width:  263   height:  225)
+not_clean: 96%	(left_x:   71   top_y:   67   width:  507   height:  411)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144305_jpg.rf.0e42ace88eca8905bedbb0ef9e0f5725.jpg: Predicted in 3.965000 milli-seconds.
+clean: 100%	(left_x:   51   top_y:   50   width:  536   height:  548)
+cupholder: 100%	(left_x:   95   top_y:  297   width:  419   height:  240)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144249_jpg.rf.8a332134497e26590db36f28a6f9ab9f.jpg: Predicted in 3.968000 milli-seconds.
+clean: 100%	(left_x:  109   top_y:   80   width:  424   height:  411)
+straw: 98%	(left_x:  267   top_y:   -5   width:   85   height:  453)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144249-0-_jpg.rf.e21447d5b29aa56861fc724fadd76775.jpg: Predicted in 3.890000 milli-seconds.
+clean: 100%	(left_x:   92   top_y:  126   width:  461   height:  398)
+straw: 91%	(left_x:  221   top_y:   24   width:  171   height:  475)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144247_jpg.rf.88cbeb90c23dc75b12bfd8eb4e4bc1b3.jpg: Predicted in 6.422000 milli-seconds.
+clean: 100%	(left_x:  128   top_y:  190   width:  408   height:  330)
+straw: 100%	(left_x:  276   top_y:   51   width:   93   height:  438)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184924113_27_jpg.rf.04226cbc844005dad3b6db914ee56eaa.jpg: Predicted in 3.875000 milli-seconds.
+clean: 100%	(left_x:  213   top_y:  194   width:  300   height:  357)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184924113_23_jpg.rf.0ac8556cc7dcbbcf6ac5f89619a7b554.jpg: Predicted in 3.896000 milli-seconds.
+clean: 100%	(left_x:  277   top_y:  132   width:  198   height:  327)
+straw: 96%	(left_x:  358   top_y:   33   width:   34   height:  393)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184924113_09_jpg.rf.dc3b64d9ad4cefb834b200619d12e1b1.jpg: Predicted in 3.940000 milli-seconds.
+cupholder: 100%	(left_x:  293   top_y:  345   width:  249   height:  160)
+clean: 100%	(left_x:  320   top_y:  162   width:  232   height:  339)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184924113_08_jpg.rf.783d12da9d7f3c85df81d8661fc414ed.jpg: Predicted in 3.839000 milli-seconds.
+cupholder: 100%	(left_x:  182   top_y:  365   width:  284   height:  173)
+clean: 100%	(left_x:  230   top_y:  128   width:  277   height:  403)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184848117_19_jpg.rf.8ab2c6c0dbddfa68e77ff82c6115a331.jpg: Predicted in 3.841000 milli-seconds.
+not_clean: 100%	(left_x:   76   top_y:  155   width:  250   height:  351)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184848117_18_jpg.rf.b0ca58c0fd8faef4d812a0cf43c75505.jpg: Predicted in 3.869000 milli-seconds.
+not_clean: 100%	(left_x:   60   top_y:  212   width:  298   height:  423)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184848117_02_jpg.rf.d9d701f366f2cf43a56cad31f21e9473.jpg: Predicted in 3.865000 milli-seconds.
+not_clean: 100%	(left_x:  111   top_y:  131   width:  348   height:  450)
+cupholder: 100%	(left_x:  138   top_y:  356   width:  280   height:  187)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184811855_28_jpg.rf.61b1e42a1721da651d9dcf8bcd07edd3.jpg: Predicted in 4.914000 milli-seconds.
+not_clean: 100%	(left_x:  227   top_y:  219   width:  314   height:  323)
+cupholder: 100%	(left_x:  256   top_y:  418   width:  226   height:  107)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184658512_18_jpg.rf.973de460ad1256e2e7b64196dd28ef76.jpg: Predicted in 3.853000 milli-seconds.
+not_clean: 100%	(left_x:  178   top_y:  108   width:  345   height:  460)
+cupholder: 100%	(left_x:  201   top_y:  341   width:  273   height:  172)
+straw: 96%	(left_x:  320   top_y:   -5   width:   75   height:  251)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184231842_11_jpg.rf.dd3eb9a1048fca989813a9ebc4c6a0d5.jpg: Predicted in 3.902000 milli-seconds.
+not_clean: 100%	(left_x:  103   top_y:  113   width:  433   height:  351)
+cupholder: 99%	(left_x:  158   top_y:  357   width:  227   height:   99)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_184231842_02_jpg.rf.aec61a0951ee8d0a34ca12f280139b40.jpg: Predicted in 4.186000 milli-seconds.
+not_clean: 100%	(left_x:  149   top_y:  187   width:  263   height:  400)
+straw: 99%	(left_x:  281   top_y:   41   width:   41   height:  232)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_130354199_jpg.rf.d92241758dd7d61c5a3418a63e9f28e8.jpg: Predicted in 3.957000 milli-seconds.
+clean: 97%	(left_x:    4   top_y:  118   width:  506   height:  479)
+straw: 58%	(left_x:    8   top_y:   38   width:  453   height:  488)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230912_114235802_jpg.rf.96b7619f642478118351e4e18a6012d4.jpg: Predicted in 3.864000 milli-seconds.
+not_clean: 100%	(left_x:   17   top_y:   54   width:  602   height:  539)
+not_clean: 27%	(left_x:   50   top_y:  290   width:  480   height:  279)
+cupholder: 90%	(left_x:   94   top_y:  344   width:  416   height:  206)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145251018_jpg.rf.8d968e414b776db6e012101555b7cfc8.jpg: Predicted in 3.980000 milli-seconds.
+not_clean: 100%	(left_x:  105   top_y:  120   width:  455   height:  458)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145244129_jpg.rf.b465bd2e45adf69f2b288c9f6ff9f7ac.jpg: Predicted in 3.884000 milli-seconds.
+not_clean: 100%	(left_x:  159   top_y:   34   width:  478   height:  488)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145227363_jpg.rf.0028a0e908f56dbf4c5c41e011e82442.jpg: Predicted in 3.882000 milli-seconds.
+not_clean: 100%	(left_x:  146   top_y:  197   width:  439   height:  367)
+cupholder: 100%	(left_x:  155   top_y:  362   width:  316   height:  180)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145218566_jpg.rf.b81d392d52818358f3417a8fa48298a6.jpg: Predicted in 3.859000 milli-seconds.
+not_clean: 100%	(left_x:   11   top_y:   81   width:  434   height:  490)
+cupholder: 100%	(left_x:   30   top_y:  306   width:  378   height:  203)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145212695_jpg.rf.2e027f19a5772a6beacc2543fb581829.jpg: Predicted in 3.832000 milli-seconds.
+not_clean: 100%	(left_x:  131   top_y:  118   width:  442   height:  470)
+cupholder: 100%	(left_x:  146   top_y:  341   width:  338   height:  184)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145203131_jpg.rf.8a3eaa21934c73f55adcf692dcb04a7a.jpg: Predicted in 3.874000 milli-seconds.
+not_clean: 100%	(left_x:  160   top_y:  180   width:  416   height:  398)
+straw: 99%	(left_x:  226   top_y:   -1   width:  179   height:  547)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145153660_jpg.rf.a3b727f7dd2109334ee918d24bdd2745.jpg: Predicted in 3.960000 milli-seconds.
+not_clean: 97%	(left_x:   91   top_y:  287   width:  386   height:  283)
+straw: 100%	(left_x:  167   top_y:  169   width:  228   height:  375)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145133893_jpg.rf.d393ae0e8fad4d61338974eed090191b.jpg: Predicted in 3.897000 milli-seconds.
+not_clean: 100%	(left_x:  100   top_y:  206   width:  406   height:  351)
+cupholder: 98%	(left_x:  143   top_y:  388   width:  294   height:  139)
+straw: 100%	(left_x:  243   top_y:   29   width:  157   height:  417)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145132026_jpg.rf.3b92e77b79f33db993ffd53769608689.jpg: Predicted in 3.952000 milli-seconds.
+not_clean: 100%	(left_x:   76   top_y:   82   width:  476   height:  544)
+cupholder: 100%	(left_x:   95   top_y:  345   width:  384   height:  208)
+straw: 99%	(left_x:  221   top_y:   15   width:  166   height:  382)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145127883_jpg.rf.b8ae1525e3da39f62bac126885e43983.jpg: Predicted in 3.884000 milli-seconds.
+not_clean: 100%	(left_x:  112   top_y:  175   width:  428   height:  446)
+cupholder: 100%	(left_x:  153   top_y:  386   width:  327   height:  188)
+straw: 100%	(left_x:  255   top_y:   19   width:  127   height:  425)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145108551_jpg.rf.b0c38193517cfbfa68449d14f81d5916.jpg: Predicted in 3.846000 milli-seconds.
+not_clean: 100%	(left_x:   57   top_y:  116   width:  497   height:  400)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145107957_jpg.rf.77e0ad119513b13f7550b4bc8137ca4e.jpg: Predicted in 8.606000 milli-seconds.
+not_clean: 100%	(left_x:  136   top_y:  153   width:  487   height:  370)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145104049_jpg.rf.e1cd733a4ed668f9620e00404f3dc5e9.jpg: Predicted in 4.137000 milli-seconds.
+not_clean: 100%	(left_x:  135   top_y:  133   width:  461   height:  454)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_145024324_jpg.rf.41811d607d650801919a8e7ffbc58c18.jpg: Predicted in 3.920000 milli-seconds.
+not_clean: 94%	(left_x:  128   top_y:   90   width:  485   height:  448)
+straw: 99%	(left_x:  161   top_y:   36   width:  421   height:  495)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144959431_jpg.rf.51fbedce7a8bd2c4c9cb080d23cc826c.jpg: Predicted in 4.009000 milli-seconds.
+not_clean: 100%	(left_x:  104   top_y:  113   width:  449   height:  484)
+cupholder: 100%	(left_x:  137   top_y:  328   width:  351   height:  209)
+straw: 100%	(left_x:  252   top_y:    7   width:  166   height:  398)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144827265_jpg.rf.462f50ec8eb885a75fb62f4f97b0f590.jpg: Predicted in 3.934000 milli-seconds.
+not_clean: 100%	(left_x:   66   top_y:  102   width:  483   height:  425)
+cupholder: 100%	(left_x:  202   top_y:  309   width:  330   height:  196)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144825585_jpg.rf.56ff9b9707d643fb3109f21971e7f622.jpg: Predicted in 3.908000 milli-seconds.
+not_clean: 100%	(left_x:  117   top_y:  158   width:  482   height:  357)
+cupholder: 100%	(left_x:  150   top_y:  343   width:  314   height:  151)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144823748_jpg.rf.aa2b2f73dde230489d49265b6f3d1fcb.jpg: Predicted in 3.920000 milli-seconds.
+not_clean: 100%	(left_x:   81   top_y:  121   width:  456   height:  443)
+cupholder: 100%	(left_x:  113   top_y:  337   width:  353   height:  188)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_131636209_jpg.rf.cb5f0bd90d838abb9e34e160675cbe04.jpg: Predicted in 3.849000 milli-seconds.
+cupholder: 92%	(left_x:   22   top_y:  286   width:  591   height:  221)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185549158_jpg.rf.b8357e5706c156a39dfbe1928872da4c.jpg: Predicted in 3.845000 milli-seconds.
+clean: 98%	(left_x:  207   top_y:  183   width:  301   height:  345)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185533929_13_jpg.rf.6e9eb0080b8eecd73b4888ddea120259.jpg: Predicted in 3.828000 milli-seconds.
+clean: 100%	(left_x:  150   top_y:  116   width:  339   height:  414)
+straw: 97%	(left_x:  271   top_y:   16   width:  122   height:  499)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185533929_08_jpg.rf.476a3e28057b7ea0305e69cc13f31279.jpg: Predicted in 3.809000 milli-seconds.
+clean: 100%	(left_x:  150   top_y:  167   width:  373   height:  389)
+straw: 93%	(left_x:  315   top_y:   -2   width:   78   height:  547)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185533929_05_jpg.rf.d2ac20a786a3dba47f945da0a5761561.jpg: Predicted in 3.823000 milli-seconds.
+straw: 97%	(left_x:  123   top_y:  170   width:  377   height:  390)
+straw: 98%	(left_x:  210   top_y:   15   width:  203   height:  497)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185533929_07_jpg.rf.08a8dd26a81616926fb903cd6e8ac516.jpg: Predicted in 3.847000 milli-seconds.
+straw: 97%	(left_x:  174   top_y:  177   width:  296   height:  364)
+clean: 33%	(left_x:  174   top_y:  177   width:  296   height:  364)
+straw: 98%	(left_x:  246   top_y:    1   width:  146   height:  513)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185513256_29_jpg.rf.08c0f82a7e55cef76bbdc124d89b1703.jpg: Predicted in 3.806000 milli-seconds.
+clean: 97%	(left_x:  160   top_y:   65   width:  357   height:  421)
+cupholder: 51%	(left_x:  190   top_y:   49   width:  316   height:  457)
+cupholder: 100%	(left_x:  208   top_y:  284   width:  247   height:  150)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185513256_19_jpg.rf.443677b77559b893d0cdc10a333ceab8.jpg: Predicted in 3.821000 milli-seconds.
+cupholder: 100%	(left_x:  167   top_y:  351   width:  248   height:  157)
+clean: 98%	(left_x:  175   top_y:  188   width:  250   height:  355)
+straw: 88%	(left_x:  240   top_y:   36   width:  141   height:  471)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185513256_18_jpg.rf.07ea43e77282ab5eec0afafc345c42c7.jpg: Predicted in 3.853000 milli-seconds.
+clean: 92%	(left_x:  113   top_y:  260   width:  278   height:  302)
+cupholder: 100%	(left_x:  117   top_y:  381   width:  252   height:  151)
+straw: 97%	(left_x:  221   top_y:   61   width:  128   height:  365)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185513256_12_jpg.rf.9528ee8a2943c3668bbc4202131f5fcb.jpg: Predicted in 3.836000 milli-seconds.
+clean: 100%	(left_x:  150   top_y:  284   width:  255   height:  234)
+cupholder: 100%	(left_x:  166   top_y:  420   width:  229   height:   96)
+straw: 99%	(left_x:  243   top_y:  103   width:  121   height:  352)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185513256_06_jpg.rf.76fa4f6cfd3e9b9784f812c34d24bb15.jpg: Predicted in 3.865000 milli-seconds.
+not_clean: 99%	(left_x:  229   top_y:   82   width:  340   height:  409)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185513256_04_jpg.rf.dbbc6166f932c02963c3318752e046e9.jpg: Predicted in 3.820000 milli-seconds.
+not_clean: 97%	(left_x:  154   top_y:  110   width:  336   height:  415)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185451033_jpg.rf.02d8ba0e99f74c5277fd52d7521a4799.jpg: Predicted in 3.798000 milli-seconds.
+not_clean: 100%	(left_x:  191   top_y:  240   width:  259   height:  345)
+cupholder: 100%	(left_x:  198   top_y:  420   width:  219   height:  132)
+straw: 87%	(left_x:  295   top_y:   97   width:   39   height:  270)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185451033_12_jpg.rf.e25513d59ab2fda92410eb39079c23a8.jpg: Predicted in 3.808000 milli-seconds.
+not_clean: 98%	(left_x:  212   top_y:  143   width:  283   height:  366)
+cupholder: 100%	(left_x:  220   top_y:  325   width:  239   height:  165)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185451033_08_jpg.rf.510a4c311d39c5ff20666cdd066e3aff.jpg: Predicted in 3.916000 milli-seconds.
+not_clean: 62%	(left_x:  216   top_y:  155   width:  285   height:  326)
+not_clean: 42%	(left_x:  228   top_y:  288   width:  254   height:  199)
+cupholder: 99%	(left_x:  234   top_y:  320   width:  244   height:  164)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185451033_05_jpg.rf.6321c2e8ec88904f7dd28ff2e771ed0a.jpg: Predicted in 3.812000 milli-seconds.
+clean: 75%	(left_x:  182   top_y:  145   width:  324   height:  324)
+not_clean: 86%	(left_x:  206   top_y:  131   width:  301   height:  350)
+cupholder: 92%	(left_x:  234   top_y:  328   width:  235   height:  145)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185451033_01_jpg.rf.c28653b0681c4b67198bb86217040426.jpg: Predicted in 3.886000 milli-seconds.
+not_clean: 100%	(left_x:  216   top_y:  219   width:  245   height:  336)
+cupholder: 100%	(left_x:  227   top_y:  382   width:  214   height:  144)
+straw: 71%	(left_x:  313   top_y:   81   width:   44   height:  343)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185428390_11_jpg.rf.ec4394cc72dad6566d0b0e2bc9749341.jpg: Predicted in 3.858000 milli-seconds.
+not_clean: 100%	(left_x:  205   top_y:   78   width:  349   height:  398)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185428390_07_jpg.rf.933e944b4ae9172426b39ddd564932ea.jpg: Predicted in 3.863000 milli-seconds.
+not_clean: 100%	(left_x:  240   top_y:  106   width:  284   height:  384)
+straw: 32%	(left_x:  349   top_y:  -29   width:   38   height:  467)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185356648_25_jpg.rf.66c1cbc28f5365377fa1a7268e9b9d19.jpg: Predicted in 3.821000 milli-seconds.
+not_clean: 100%	(left_x:  183   top_y:  191   width:  276   height:  271)
+straw: 93%	(left_x:  303   top_y:   14   width:   44   height:  352)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185259884_16_jpg.rf.bbdb2dd91b35784946b7484db90ea32b.jpg: Predicted in 3.793000 milli-seconds.
+not_clean: 100%	(left_x:  211   top_y:  195   width:  260   height:  372)
+straw: 43%	(left_x:  320   top_y:   22   width:   58   height:  408)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185259884_12_jpg.rf.fe702b9f76eaa15e4922450284e932f2.jpg: Predicted in 3.824000 milli-seconds.
+not_clean: 100%	(left_x:  227   top_y:  213   width:  259   height:  346)
+straw: 28%	(left_x:  346   top_y:   30   width:   28   height:  349)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185259884_09_jpg.rf.d523b147051ffa1ed03a855438c5671a.jpg: Predicted in 3.875000 milli-seconds.
+not_clean: 100%	(left_x:  240   top_y:  233   width:  262   height:  354)
+straw: 39%	(left_x:  356   top_y:   78   width:   29   height:  269)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185259884_03_jpg.rf.2da6026af52b5d7b9cbb4fec2310ad24.jpg: Predicted in 3.819000 milli-seconds.
+not_clean: 100%	(left_x:  197   top_y:  230   width:  312   height:  334)
+straw: 89%	(left_x:  302   top_y:   71   width:   77   height:  360)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185232656_11_jpg.rf.687b28a0a65b37c326f3143cb1c62c3b.jpg: Predicted in 3.870000 milli-seconds.
+not_clean: 100%	(left_x:  173   top_y:  257   width:  262   height:  270)
+cupholder: 100%	(left_x:  209   top_y:  418   width:  207   height:  101)
+straw: 99%	(left_x:  292   top_y:  138   width:   36   height:  279)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185232656_01_jpg.rf.f07623ba341644aef7cf38b71d7fdfff.jpg: Predicted in 3.840000 milli-seconds.
+not_clean: 100%	(left_x:  216   top_y:  109   width:  291   height:  390)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185207800_12_jpg.rf.7dbaf60fca823cd1bde8cf32f7fa4159.jpg: Predicted in 3.811000 milli-seconds.
+not_clean: 100%	(left_x:  243   top_y:  128   width:  264   height:  393)
+cupholder: 100%	(left_x:  247   top_y:  321   width:  232   height:  158)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185108151_14_jpg.rf.bc51f11dfe4c8d76bc6dc94024cda84e.jpg: Predicted in 3.817000 milli-seconds.
+not_clean: 100%	(left_x:  181   top_y:  195   width:  314   height:  313)
+cupholder: 96%	(left_x:  223   top_y:  426   width:  197   height:   80)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185108151_05_jpg.rf.8268d04796e808a01971617d6320943c.jpg: Predicted in 3.795000 milli-seconds.
+not_clean: 100%	(left_x:  160   top_y:  224   width:  285   height:  293)
+cupholder: 94%	(left_x:  216   top_y:  407   width:  202   height:  108)
+straw: 100%	(left_x:  240   top_y:   38   width:   98   height:  290)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144311_jpg.rf.b39374b4817ae6c8b0f320d03d8ddceb.jpg: Predicted in 3.872000 milli-seconds.
+clean: 100%	(left_x:   17   top_y:   12   width:  522   height:  533)
+cupholder: 100%	(left_x:   74   top_y:  290   width:  418   height:  197)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185549158_07_jpg.rf.68fb532c1637a474457b229830b84f1c.jpg: Predicted in 3.821000 milli-seconds.
+clean: 100%	(left_x:  211   top_y:  184   width:  247   height:  308)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185549158_03_jpg.rf.9283aa483fe91aa9b5d76de77d9221d6.jpg: Predicted in 4.093000 milli-seconds.
+clean: 100%	(left_x:  226   top_y:  155   width:  279   height:  355)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/KakaoTalk_20230911_185513256_26_jpg.rf.09474ab81205bb9de82b667bfb61ce96.jpg: Predicted in 3.825000 milli-seconds.
+clean: 99%	(left_x:  217   top_y:   93   width:  316   height:  417)
+clean: 98%	(left_x:  236   top_y:  307   width:  261   height:  162)
+cupholder: 57%	(left_x:  241   top_y:  320   width:  253   height:  152)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144246-0-_jpg.rf.6e58222867aae3d87c5cd1534cd4dbcb.jpg: Predicted in 3.815000 milli-seconds.
+clean: 99%	(left_x:  106   top_y:  132   width:  430   height:  410)
+straw: 96%	(left_x:  271   top_y:   -5   width:   97   height:  523)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144228_jpg.rf.9e4985a3ffd16566ed6820620b414b43.jpg: Predicted in 3.882000 milli-seconds.
+clean: 100%	(left_x:   32   top_y:   69   width:  499   height:  498)
+cupholder: 100%	(left_x:   78   top_y:  294   width:  424   height:  209)
+straw: 98%	(left_x:  240   top_y:   10   width:  104   height:  315)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144222_jpg.rf.48fcb1e6223a29e1648a9b0bb64b43d6.jpg: Predicted in 3.867000 milli-seconds.
+clean: 100%	(left_x:   98   top_y:  110   width:  535   height:  498)
+cupholder: 100%	(left_x:  128   top_y:  334   width:  412   height:  227)
+straw: 87%	(left_x:  274   top_y:  -17   width:  220   height:  448)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144747277_jpg.rf.e9632cbf3f410050a46611cb7f613bad.jpg: Predicted in 3.867000 milli-seconds.
+not_clean: 100%	(left_x:   82   top_y:  226   width:  440   height:  412)
+cupholder: 100%	(left_x:  130   top_y:  425   width:  322   height:  172)
+straw: 99%	(left_x:  218   top_y:   57   width:  124   height:  396)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144744440_jpg.rf.e787824d108c7b068ab99e1c585fa5c3.jpg: Predicted in 3.804000 milli-seconds.
+not_clean: 100%	(left_x:   82   top_y:  134   width:  487   height:  462)
+cupholder: 100%	(left_x:  128   top_y:  370   width:  358   height:  179)
+straw: 82%	(left_x:  282   top_y:   10   width:   73   height:  396)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144619537_jpg.rf.ea12a8db588774206fb19166ae83b49c.jpg: Predicted in 3.812000 milli-seconds.
+not_clean: 100%	(left_x:   95   top_y:   67   width:  521   height:  489)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144617198_jpg.rf.1efd959965b8744006e2ceee87d45061.jpg: Predicted in 3.800000 milli-seconds.
+not_clean: 100%	(left_x:   72   top_y:  114   width:  503   height:  453)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144603230_jpg.rf.a32e9c77b8f9a39b635339be86af056a.jpg: Predicted in 3.811000 milli-seconds.
+not_clean: 100%	(left_x:   54   top_y:   88   width:  539   height:  572)
+cupholder: 100%	(left_x:   91   top_y:  349   width:  437   height:  236)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144550438_jpg.rf.a7ffe898b10785aa39104d71ca18aefa.jpg: Predicted in 3.828000 milli-seconds.
+not_clean: 100%	(left_x:  -15   top_y:   30   width:  560   height:  579)
+cupholder: 100%	(left_x:   65   top_y:  320   width:  427   height:  218)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_132805602_jpg.rf.53704cfa1872860a14310ba060a1616f.jpg: Predicted in 3.810000 milli-seconds.
+not_clean: 97%	(left_x:  126   top_y:  149   width:  474   height:  471)
+straw: 99%	(left_x:  300   top_y:   10   width:  234   height:  407)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144359_jpg.rf.204beea9615cbf810578a9ed6aa91816.jpg: Predicted in 3.818000 milli-seconds.
+cupholder: 100%	(left_x:   29   top_y:  135   width:  570   height:  348)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144349_jpg.rf.981760f801ba624cd5ae283a07108db4.jpg: Predicted in 3.800000 milli-seconds.
+cupholder: 99%	(left_x:   88   top_y:  113   width:  551   height:  336)
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+/content/drive/MyDrive/Data/yolo 실습/20230907_144440_jpg.rf.3cfe7210912deb9b432e69773f238ff7.jpg: Predicted in 3.796000 milli-seconds.
+straw: 100%	(left_x:  142   top_y:   83   width:  273   height:  271)
+Enter Image Path: 
